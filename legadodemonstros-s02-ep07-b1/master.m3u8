@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=11751724,RESOLUTION=1918x802
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled91@job-legadodemonstros-s02-ep07-b1/legadodemonstros-s02-ep07-b1/hls/index.m3u8
